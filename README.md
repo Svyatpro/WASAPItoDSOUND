@@ -1,4 +1,4 @@
-This project is aimed to bring WASAPI layer support to previos Windows versions such like Win2k, XP, 2003 converting WASAPI calls to DirectSound.
+This project is aimed to bring WASAPI layer support to previous Windows versions such like Win2k, XP, 2003 converting WASAPI calls to DirectSound.
 
 DO NOT TRY TO USE ON Windows VISTA and higher you will break your sound completely!
 
